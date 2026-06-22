@@ -2,6 +2,8 @@
 
 **Stochastic Processes: Computational Finance — Spring 2026**
 
+https://github.com/ProstoiProger/Group-Project-3-Merton-Jump-Diffusion-Pricing-and-Harvesting-the-Equity-Jump-Risk-Premium 
+
 ---
 
 ## Overview
